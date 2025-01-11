@@ -34,31 +34,7 @@ Provide formal justifications for recommendations, comparing the paper with benc
 Classify papers exclusively into the aforementioned prestigious conferences.
 Provide well-reasoned rationales for each classification (up to 100 words).
 Integrate Pathway connectors and VectorStore/DocumentStore for real-time data streaming.
-Deliverables:
 
-Code (reproducible results)
-Report (max 10 pages without appendix)
-CSV file with results in a specific format.
-Evaluation Criteria:
-
-Judging Publishability (25%):
-Approach towards identification of publishability.
-Accuracy and F1 Score of determining publishability.
-Conference Selection and Rationale (60%):
-Efficiency of retrieval (latency and resource consumption).
-Reasoning behind conference selection.
-Effective API calls and tooling.
-Report (15%):
-Quality of comprehensive presentation.
-Completeness and results presentation.
-Parsing quality of research papers.
-Technology and Resources:
-
-Pathway Framework:
-LLMs, connectors, AI pipelines.
-Available on macOS and Linux (WSL, docker, or VM for Windows).
-VectorStore/DocumentStore:
-Pathway or other suitable options.
 Additional Resources:
 RAG (Retrieval Augmented Generation) resources.
 Pathway developer documentation.
